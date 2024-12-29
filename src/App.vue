@@ -101,56 +101,48 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Jinzo",
-          "alias": "Shayan Arsenal",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Type - Worst Beat"
+          "callsign": "Cactus",
+          "alias": "Winter St. Croix XII",
+          "code": "St.Croix.Winter.XII:c8eafe90-5c60-4b46-ae4d-1a8754fbdec6//NDL-C-RHO-VEIL",
+          "corpro": "SSC",
+          "frame": "Swallowtail",
+          "mech": "R.U.S.T.I.E."
         },
         {
-          "callsign": "Kal",
-          "alias": "Vier Flau",
-          "code": "7cd700cc-c990-48ed-892f-e5468de724c4///NDL-C-DEEP-STATION//a98c3e28-ad4a-4f89-bcd9-501464e960da",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Necrophile"
+          "callsign": "Javelin",
+          "alias": "Judas Zakera",
+          "code": "Zakera.Judas:bfe931e9-8121-44e6-9033-1f98af598b57//NDL-C-STOLEN-BREATH",
+          "corpro": "IPS-N",
+          "frame": "Tortuga",
+          "mech": "velocius quam asparagi coquantur"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "callsign": "Nightingale",
+          "alias": "Sabine-Sericus of the House of Glass",
+          "code": "Sericus.Sabine:b0fa6b4b-1539-406e-9c91-0adc22827897//NDL-C-BLUE-DREAM",
+          "corpro": "SSC",
+          "frame": "Emperor",
+          "mech": "Oberon"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
-        },
-        {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "callsign": "Screwdriver",
+          "alias": "Nico Daviesi",
+          "code": "Daviesi.Nico:1ab97ff5-4071-4db2-a217-4967e18e3f43//NDL-C-SIGMA-LASH",
+          "corpro": "SSC",
+          "frame": "Amber Phantom",
+          "mech": "Smile and Nod"
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
+        "planet": "Viridian",
+        "year": "5016u",
+        "system": "Dawnline Shore",
+        "gate": "Bitterroot Station",
+        "ring": "Rocky Mountain Line",
+        "headerTitle": "Union",
+        "headerSubtitle": "Escort Detail",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Alpha-Charlie-Lima-Papa-Sierra",
       },
       "options":{
         "eventsMarkdownPerMission": true
