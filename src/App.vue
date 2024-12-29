@@ -142,7 +142,7 @@ export default {
         "headerTitle": "Union",
         "headerSubtitle": "Escort Detail",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Alpha-Charlie-Lima-Papa-Sierra",
+        "subheaderSubtitle": "Alpha-Charlie-Lima-Sierra",
       },
       "options":{
         "eventsMarkdownPerMission": true
