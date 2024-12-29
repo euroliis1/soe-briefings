@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Escort Job",
           "status": "start"
         },
       ],
@@ -106,7 +106,7 @@ export default {
           "code": "St.Croix.Winter.XII:c8eafe90-5c60-4b46-ae4d-1a8754fbdec6//NDL-C-RHO-VEIL",
           "corpro": "SSC",
           "frame": "Swallowtail",
-          "mech": "R.U.S.T.I.E."
+          "mech": "RUSTIE"
         },
         {
           "callsign": "Javelin",
