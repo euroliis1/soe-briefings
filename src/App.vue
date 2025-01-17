@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "001",
       "current_md": "",
       "events": "",
       "missions": [
@@ -145,7 +145,7 @@ export default {
         "gate": "Bitterroot Station",
         "ring": "Rocky Mountain Line",
         "headerTitle": "Union",
-        "headerSubtitle": "Escort Detail",
+        "headerSubtitle": "Secret Surveillance",
         "subheaderTitle": "Crisis Response",
         "subheaderSubtitle": "Alpha-Charlie-Lima-Sierra",
       },
