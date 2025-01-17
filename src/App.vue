@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "001",
       "current_md": "",
       "events": "",
       "missions": [
@@ -100,7 +100,7 @@ export default {
         },
         {
           "slug": "002",
-          "name" "Secure the Operative",
+          "name": "Secure the Operative",
           "status": "start"
         },
       ],
