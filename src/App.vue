@@ -89,15 +89,20 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "001",
           "name": "Escort Job",
-          "status": "start"
+          "status": "success"
         },
+        {
+          "slug": "002",
+          "name" "Secure the Operative",
+          "status": "start"
+        }
       ],
       "pilots": [
         {
